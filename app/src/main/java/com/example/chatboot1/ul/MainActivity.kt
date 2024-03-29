@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         clickEvents()
 
         val random = (0..3).random()
-        customBotMessage("Hello maestra! today your're speaking with ${botList[random]},how may i help")
+        customBotMessage("Hello maestra! Yo soy gutierritos today your're speaking with ${botList[random]},how may i help")
         //enableEdgeToEdge()
        // setContentView(R.layout.activity_main)
        // ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
